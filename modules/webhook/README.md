@@ -6,7 +6,7 @@ The module can be deployed in two modes. 'Direct' messages, are delivered direct
 
 ## Lambda Function
 
-The Lambda function is written in [TypeScript](https://www.typescriptlang.org/) and requires Node and yarn. Sources are located in [./lambdas/webhook]. Check see `lambda.ts` for the different handler functions available.
+The Lambda function is written in [TypeScript](https://www.typescriptlang.org/) and requires Node and yarn. Sources are located in [/lambdas/functions/webhook](/lambdas/functions/webhook). Check see `lambda.ts` for the different handler functions available.
 
 ### Install
 
